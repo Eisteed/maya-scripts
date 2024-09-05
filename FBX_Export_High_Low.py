@@ -1,3 +1,7 @@
+# Export Selected Groups to FBX
+# Export name = Group Name
+# Export existing geometry as _Low and add a smooth mesh to export _High version.
+
 import maya.cmds as cmds
 import maya.mel as mel
 import os
